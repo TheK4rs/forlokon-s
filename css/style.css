@@ -121,6 +121,7 @@ footer p {
   margin: 0.3rem 0;
 }
 
+.contact a,
 footer a {
   color: #d5aaff;
   text-decoration: none;
