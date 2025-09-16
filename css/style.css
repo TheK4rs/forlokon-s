@@ -122,12 +122,11 @@ footer p {
 }
 
 footer a {
-  color: #c4a3ff;
+  color: #d5aaff;
   text-decoration: none;
-  font-weight: bold;
 }
 
+.contact a:hover,
 footer a:hover {
   text-decoration: underline;
 }
-
