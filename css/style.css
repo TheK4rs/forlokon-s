@@ -117,3 +117,17 @@ footer {
   opacity: 0.7;
 }
 
+footer p {
+  margin: 0.3rem 0;
+}
+
+footer a {
+  color: #d5aaff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
